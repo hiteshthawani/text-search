@@ -1,0 +1,1 @@
+java -cp target\text-search-1.0-SNAPSHOT.jar com.schibsted.Main %1
